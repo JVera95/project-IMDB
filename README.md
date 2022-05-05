@@ -14,7 +14,6 @@ npm install
 
 * JavaScript
 * ReactJS
-* Node
 * Bootstrap
 
 ## Autores ✒️
